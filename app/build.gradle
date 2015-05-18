@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
+    compileSdkVersion 21
     buildToolsVersion "21.0.1"
 
     defaultConfig {
         applicationId "com.freecoders.photobook"
         minSdkVersion 14
-        targetSdkVersion 19
+        targetSdkVersion 21
     }
 
     buildTypes {
@@ -27,7 +27,7 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:19.1.0'
+    compile 'com.android.support:appcompat-v7:22.1.1'
     compile files('libs/library-1.0.0.jar')
     compile 'de.hdodenhof:circleimageview:1.2.1'
     compile 'com.soundcloud.android:android-crop:0.9.10@aar'

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/StaggeredGridView-1.0.5/StaggeredGridView-1.0.5.iml" filepath="$PROJECT_DIR$/StaggeredGridView-1.0.5/StaggeredGridView-1.0.5.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/photobook-client.iml" filepath="$PROJECT_DIR$/photobook-client.iml" />
     </modules>
   </component>
 </project>
-
